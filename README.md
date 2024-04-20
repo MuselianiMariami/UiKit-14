@@ -13,7 +13,8 @@
 * 1 ცალი ღილაკი(back) რომელიც გვაბრუებს პირველ გვერდზე </br>
 * შეგიძლიათ იხელმძღვანელოთ თანდართული ფოტოებით. </br>
 * გამოიყენეთ Storyboard. არდაგავიწყდეთ ქოსთრეინთები.
-
+</br>
+</br>
 <div align="center">
   <img src = "https://github.com/MuselianiMariami/UiKit-14/assets/137683336/dfff8823-3fac-4685-adef-8705800600d9" width="300">
   <span>...</span>
